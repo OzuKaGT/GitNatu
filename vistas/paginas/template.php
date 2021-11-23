@@ -30,6 +30,7 @@
         <p class="containter-xl"> Correo: <b>NatuPoints@gmail.com </b></p>
         <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.facebook.com/NatuPoints/" target="blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
         <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.instagram.com/natupoints/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.instagram.com/natupoints/" target="blank"><i class="bi bi-twitter" aria-hidden="true"></i></a></li>
     </footer>
 </body>
 </html>

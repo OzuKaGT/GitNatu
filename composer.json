@@ -1,0 +1,8 @@
+{
+    "name": "GitNatu",
+    "homepage": "http://natupoints1.clubcoderos.com/",
+    "repositories": [
+        { "type": "git", "url": "https://github.com/OzuKaGT/GitNatu.git" }
+    ],
+    "require-all": true
+}
