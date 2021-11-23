@@ -28,9 +28,10 @@
         <legend class="containter-xl"> Contactenos </legend><br>
         <p class="containter-xl"> Linea Gratuita: <b>01 8000 8888</b> </p>
         <p class="containter-xl"> Correo: <b>NatuPoints@gmail.com </b></p>
-        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.facebook.com/NatuPoints/" target="blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.instagram.com/natupoints/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.instagram.com/natupoints/" target="blank"><i class="bi bi-twitter" aria-hidden="true"></i></a></li>
+        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.facebook.com/NatuPoints/" target="blank"><img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/></a></li>
+        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://www.instagram.com/natupoints/" target="blank"><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a></li>
+        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://twitter.com/NatuPoints/" target="blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a></li>
+        <li style="display:inline-block;"><a style="color:white;font-size:45px;padding:10px 5px;display:block;transition:all 0.5 ease-in-out;" href="https://co.pinterest.com/natupoints/" target="blank"><img src="https://img.icons8.com/ios/50/000000/pinterest--v2.png"/></a></li>
     </footer>
 </body>
 </html>
